@@ -1,0 +1,67 @@
+body {
+    /*background-image: url("https://wallpaper-house.com/data/out/10/wallpaper2you_397810.jpg");*/
+    background-color: #ff0000;
+    color: #FFF;
+    font-family: 'Oswald',"HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+@font-face {
+    font-family: holidayFont;
+    src: url(../fonts/ThePerfectChristmas.ttf);
+}
+.navbar {
+  border-bottom: 3px solid #000;
+}
+.navbar-dark .navbar-brand {
+    color: #ff0000;
+    font-size: 3em;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color: #ff0000;
+    /*font-size: 1.1em;*/
+}
+.bg-dark {
+    background-color: #74d680!important;
+}
+.logo {
+    width: 60px;
+    float: left;
+    padding-top: 0px;
+}
+.navbar-brand {
+  font-family: holidayFont;
+}
+.content {
+  padding-top: 100px;
+  margin-bottom: 50px;s
+}
+.img-thumbnail {
+  margin: 10px;
+}
+.item {
+  width: 100%;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+.item1 {
+  background-image: url(../img/Candy-Cane.jpg);
+}
+.item2 {
+  background-image: url(../img/christmas_tree.jpeg);
+}
+.item3 {
+  background-image: url(../img/christmas_hat.jpg);
+}
+.item4 {
+  background-image: url(../img/holiday_wreath.jpeg);
+}
+.item5 {
+  background-image: url(../img/stocking.jpg);
+}
+.item6 {
+  background-image: url(../img/eggnog.jpg);
+}
+#menu p {
+  text-align: center;
+  font-size: 1.5em;
+}
